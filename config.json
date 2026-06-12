@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-insights-mini-project",
+      "title": "CSV Insights Mini-Project",
+      "description": "Practice basic data analysis with Python using a CSV dataset",
+      "path": "assignments/csv-insights-mini-project",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
